@@ -1,0 +1,973 @@
+2024-01-23 15:08:20,445 - INFO: Landed on the correct page
+2024-01-23 15:08:20,764 - INFO: Page URL: https://www.makemytrip.com/railways/
+2024-01-23 15:08:20,768 - INFO: Page Title: Book Train Ticket Online From IRCTC Authorized Partner - MakeMyTrip
+2024-01-23 15:08:21,909 - ERROR: Error occurred: Message: element click intercepted: Element <input data-cy="fromCity" id="fromCity" type="text" class="rsw_inputField font32 latoBlack" readonly="" value="New Delhi"> is not clickable at point (175, 212). Other element would receive the click: <div class="darkGreyText font14 makeFlex hrtlCenter latoRegular railTab">...</div>
+  (Session info: chrome=120.0.6099.225)
+Stacktrace:
+	GetHandleVerifier [0x00007FF767292142+3514994]
+	(No symbol) [0x00007FF766EB0CE2]
+	(No symbol) [0x00007FF766D576AA]
+	(No symbol) [0x00007FF766DA88F3]
+	(No symbol) [0x00007FF766DA68ED]
+	(No symbol) [0x00007FF766DA40EC]
+	(No symbol) [0x00007FF766DA2EA5]
+	(No symbol) [0x00007FF766D96A0F]
+	(No symbol) [0x00007FF766DC5FEA]
+	(No symbol) [0x00007FF766D963B6]
+	(No symbol) [0x00007FF766DC6490]
+	(No symbol) [0x00007FF766DE28F6]
+	(No symbol) [0x00007FF766DC5D93]
+	(No symbol) [0x00007FF766D94BDC]
+	(No symbol) [0x00007FF766D95C64]
+	GetHandleVerifier [0x00007FF7672BE16B+3695259]
+	GetHandleVerifier [0x00007FF767316737+4057191]
+	GetHandleVerifier [0x00007FF76730E4E3+4023827]
+	GetHandleVerifier [0x00007FF766FE04F9+689705]
+	(No symbol) [0x00007FF766EBC048]
+	(No symbol) [0x00007FF766EB8044]
+	(No symbol) [0x00007FF766EB81C9]
+	(No symbol) [0x00007FF766EA88C4]
+	BaseThreadInitThunk [0x00007FF84FE3257D+29]
+	RtlUserThreadStart [0x00007FF85150AA58+40]
+
+2024-01-23 15:08:35,801 - INFO: Landed on the correct page
+2024-01-23 15:08:36,225 - INFO: Page URL: https://www.makemytrip.com/railways/
+2024-01-23 15:08:36,229 - INFO: Page Title: Book Train Ticket Online From IRCTC Authorized Partner - MakeMyTrip
+2024-01-23 15:08:37,461 - INFO: Selected FROM: DELHI
+2024-01-23 15:08:38,964 - INFO: Selected TO: LUCKNOW
+2024-01-23 15:08:51,344 - ERROR: Error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.225)
+Stacktrace:
+	GetHandleVerifier [0x00007FF767292142+3514994]
+	(No symbol) [0x00007FF766EB0CE2]
+	(No symbol) [0x00007FF766D576AA]
+	(No symbol) [0x00007FF766D30AFD]
+	(No symbol) [0x00007FF766DCCB1B]
+	(No symbol) [0x00007FF766DE218F]
+	(No symbol) [0x00007FF766DC5D93]
+	(No symbol) [0x00007FF766D94BDC]
+	(No symbol) [0x00007FF766D95C64]
+	GetHandleVerifier [0x00007FF7672BE16B+3695259]
+	GetHandleVerifier [0x00007FF767316737+4057191]
+	GetHandleVerifier [0x00007FF76730E4E3+4023827]
+	GetHandleVerifier [0x00007FF766FE04F9+689705]
+	(No symbol) [0x00007FF766EBC048]
+	(No symbol) [0x00007FF766EB8044]
+	(No symbol) [0x00007FF766EB81C9]
+	(No symbol) [0x00007FF766EA88C4]
+	BaseThreadInitThunk [0x00007FF84FE3257D+29]
+	RtlUserThreadStart [0x00007FF85150AA58+40]
+
+2024-01-23 15:12:52,126 - INFO: Landed on the correct page
+2024-01-23 15:12:52,829 - INFO: Page URL: https://www.makemytrip.com/railways/
+2024-01-23 15:12:52,841 - INFO: Page Title: Book Train Ticket Online From IRCTC Authorized Partner - MakeMyTrip
+2024-01-23 15:12:54,511 - INFO: Selected FROM: DELHI
+2024-01-23 15:12:56,269 - INFO: Selected TO: LUCKNOW
+2024-01-23 15:12:56,759 - ERROR: Error occurred: Message: Select only works on <select> elements, not on input
+
+2024-01-23 15:15:26,908 - INFO: Landed on the correct page
+2024-01-23 15:15:27,389 - INFO: Page URL: https://www.makemytrip.com/railways/
+2024-01-23 15:15:27,396 - INFO: Page Title: Book Train Ticket Online From IRCTC Authorized Partner - MakeMyTrip
+2024-01-23 15:15:28,731 - INFO: Selected FROM: DELHI
+2024-01-23 15:15:30,473 - INFO: Selected TO: LUCKNOW
+2024-01-23 15:15:31,984 - INFO: selected date: 20 may
+2024-01-23 15:15:33,397 - ERROR: Error occurred: Message: element click intercepted: Element is not clickable at point (1091, -145)
+  (Session info: chrome=120.0.6099.225)
+Stacktrace:
+	GetHandleVerifier [0x00007FF767292142+3514994]
+	(No symbol) [0x00007FF766EB0CE2]
+	(No symbol) [0x00007FF766D576AA]
+	(No symbol) [0x00007FF766DA88F3]
+	(No symbol) [0x00007FF766DA68ED]
+	(No symbol) [0x00007FF766DA40EC]
+	(No symbol) [0x00007FF766DA2EA5]
+	(No symbol) [0x00007FF766D96A0F]
+	(No symbol) [0x00007FF766DC5FEA]
+	(No symbol) [0x00007FF766D963B6]
+	(No symbol) [0x00007FF766DC6490]
+	(No symbol) [0x00007FF766DE28F6]
+	(No symbol) [0x00007FF766DC5D93]
+	(No symbol) [0x00007FF766D94BDC]
+	(No symbol) [0x00007FF766D95C64]
+	GetHandleVerifier [0x00007FF7672BE16B+3695259]
+	GetHandleVerifier [0x00007FF767316737+4057191]
+	GetHandleVerifier [0x00007FF76730E4E3+4023827]
+	GetHandleVerifier [0x00007FF766FE04F9+689705]
+	(No symbol) [0x00007FF766EBC048]
+	(No symbol) [0x00007FF766EB8044]
+	(No symbol) [0x00007FF766EB81C9]
+	(No symbol) [0x00007FF766EA88C4]
+	BaseThreadInitThunk [0x00007FF84FE3257D+29]
+	RtlUserThreadStart [0x00007FF85150AA58+40]
+
+2024-01-23 15:15:51,542 - INFO: Landed on the correct page
+2024-01-23 15:15:51,908 - INFO: Page URL: https://www.makemytrip.com/railways/
+2024-01-23 15:15:51,915 - INFO: Page Title: Book Train Ticket Online From IRCTC Authorized Partner - MakeMyTrip
+2024-01-23 15:15:53,388 - INFO: Selected FROM: DELHI
+2024-01-23 15:15:55,302 - INFO: Selected TO: LUCKNOW
+2024-01-23 15:15:56,861 - INFO: selected date: 20 may
+2024-01-23 15:15:58,233 - ERROR: Error occurred: Message: element click intercepted: Element <input data-cy="RailSearchWidget_056" id="travelClass" type="text" class="rsw_inputField font20" readonly="" value="ALL"> is not clickable at point (1012, 285). Other element would receive the click: <label for="travelClass" class="latoRegular makeFlex column">...</label>
+  (Session info: chrome=120.0.6099.225)
+Stacktrace:
+	GetHandleVerifier [0x00007FF767292142+3514994]
+	(No symbol) [0x00007FF766EB0CE2]
+	(No symbol) [0x00007FF766D576AA]
+	(No symbol) [0x00007FF766DA88F3]
+	(No symbol) [0x00007FF766DA68ED]
+	(No symbol) [0x00007FF766DA40EC]
+	(No symbol) [0x00007FF766DA2EA5]
+	(No symbol) [0x00007FF766D96A0F]
+	(No symbol) [0x00007FF766DC5FEA]
+	(No symbol) [0x00007FF766D963B6]
+	(No symbol) [0x00007FF766DC6490]
+	(No symbol) [0x00007FF766DE28F6]
+	(No symbol) [0x00007FF766DC5D93]
+	(No symbol) [0x00007FF766D94BDC]
+	(No symbol) [0x00007FF766D95C64]
+	GetHandleVerifier [0x00007FF7672BE16B+3695259]
+	GetHandleVerifier [0x00007FF767316737+4057191]
+	GetHandleVerifier [0x00007FF76730E4E3+4023827]
+	GetHandleVerifier [0x00007FF766FE04F9+689705]
+	(No symbol) [0x00007FF766EBC048]
+	(No symbol) [0x00007FF766EB8044]
+	(No symbol) [0x00007FF766EB81C9]
+	(No symbol) [0x00007FF766EA88C4]
+	BaseThreadInitThunk [0x00007FF84FE3257D+29]
+	RtlUserThreadStart [0x00007FF85150AA58+40]
+
+2024-01-23 15:16:47,316 - INFO: Landed on the correct page
+2024-01-23 15:16:48,071 - INFO: Page URL: https://www.makemytrip.com/railways/
+2024-01-23 15:16:48,079 - INFO: Page Title: Book Train Ticket Online From IRCTC Authorized Partner - MakeMyTrip
+2024-01-23 15:16:49,608 - INFO: Selected FROM: DELHI
+2024-01-23 15:16:51,330 - INFO: Selected TO: LUCKNOW
+2024-01-23 15:16:52,919 - INFO: selected date: 20 may
+2024-01-23 15:16:54,384 - ERROR: Error occurred: Message: element click intercepted: Element is not clickable at point (1091, -149)
+  (Session info: chrome=120.0.6099.225)
+Stacktrace:
+	GetHandleVerifier [0x00007FF767292142+3514994]
+	(No symbol) [0x00007FF766EB0CE2]
+	(No symbol) [0x00007FF766D576AA]
+	(No symbol) [0x00007FF766DA88F3]
+	(No symbol) [0x00007FF766DA68ED]
+	(No symbol) [0x00007FF766DA40EC]
+	(No symbol) [0x00007FF766DA2EA5]
+	(No symbol) [0x00007FF766D96A0F]
+	(No symbol) [0x00007FF766DC5FEA]
+	(No symbol) [0x00007FF766D963B6]
+	(No symbol) [0x00007FF766DC6490]
+	(No symbol) [0x00007FF766DE28F6]
+	(No symbol) [0x00007FF766DC5D93]
+	(No symbol) [0x00007FF766D94BDC]
+	(No symbol) [0x00007FF766D95C64]
+	GetHandleVerifier [0x00007FF7672BE16B+3695259]
+	GetHandleVerifier [0x00007FF767316737+4057191]
+	GetHandleVerifier [0x00007FF76730E4E3+4023827]
+	GetHandleVerifier [0x00007FF766FE04F9+689705]
+	(No symbol) [0x00007FF766EBC048]
+	(No symbol) [0x00007FF766EB8044]
+	(No symbol) [0x00007FF766EB81C9]
+	(No symbol) [0x00007FF766EA88C4]
+	BaseThreadInitThunk [0x00007FF84FE3257D+29]
+	RtlUserThreadStart [0x00007FF85150AA58+40]
+
+2024-01-23 15:17:53,759 - INFO: Landed on the correct page
+2024-01-23 15:17:54,298 - INFO: Page URL: https://www.makemytrip.com/railways/
+2024-01-23 15:17:54,307 - INFO: Page Title: Book Train Ticket Online From IRCTC Authorized Partner - MakeMyTrip
+2024-01-23 15:17:55,669 - INFO: Selected FROM: DELHI
+2024-01-23 15:17:57,413 - INFO: Selected TO: LUCKNOW
+2024-01-23 15:17:57,991 - ERROR: Error occurred: WebElement.click() takes 1 positional argument but 2 were given
+2024-01-23 15:27:20,094 - INFO: Landed on the correct page
+2024-01-23 15:27:20,838 - INFO: Page URL: https://www.makemytrip.com/railways/
+2024-01-23 15:27:20,848 - INFO: Page Title: Book Train Ticket Online From IRCTC Authorized Partner - MakeMyTrip
+2024-01-23 15:27:22,828 - INFO: Selected FROM: DELHI
+2024-01-23 15:27:24,650 - INFO: Selected TO: LUCKNOW
+2024-01-23 15:27:25,245 - ERROR: Error occurred: Message: no such element: Unable to locate element: {"method":"link text","selector":"24"}
+  (Session info: chrome=120.0.6099.225); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF763E32142+3514994]
+	(No symbol) [0x00007FF763A50CE2]
+	(No symbol) [0x00007FF7638F76AA]
+	(No symbol) [0x00007FF763941860]
+	(No symbol) [0x00007FF76394197C]
+	(No symbol) [0x00007FF763984EE7]
+	(No symbol) [0x00007FF76396602F]
+	(No symbol) [0x00007FF7639828F6]
+	(No symbol) [0x00007FF763965D93]
+	(No symbol) [0x00007FF763934BDC]
+	(No symbol) [0x00007FF763935C64]
+	GetHandleVerifier [0x00007FF763E5E16B+3695259]
+	GetHandleVerifier [0x00007FF763EB6737+4057191]
+	GetHandleVerifier [0x00007FF763EAE4E3+4023827]
+	GetHandleVerifier [0x00007FF763B804F9+689705]
+	(No symbol) [0x00007FF763A5C048]
+	(No symbol) [0x00007FF763A58044]
+	(No symbol) [0x00007FF763A581C9]
+	(No symbol) [0x00007FF763A488C4]
+	BaseThreadInitThunk [0x00007FF84FE3257D+29]
+	RtlUserThreadStart [0x00007FF85150AA58+40]
+
+2024-01-23 15:39:11,374 - INFO: Landed on the correct page
+2024-01-23 15:39:12,009 - INFO: Page URL: https://www.makemytrip.com/railways/
+2024-01-23 15:39:12,017 - INFO: Page Title: Book Train Ticket Online From IRCTC Authorized Partner - MakeMyTrip
+2024-01-23 15:39:13,420 - INFO: Selected FROM: DELHI
+2024-01-23 15:39:15,275 - INFO: Selected TO: LUCKNOW
+2024-01-23 15:39:15,719 - ERROR: Error occurred: 'WebDriver' object has no attribute 'find_element_by_xpath'
+2024-01-23 15:39:55,657 - INFO: Landed on the correct page
+2024-01-23 15:39:56,335 - INFO: Page URL: https://www.makemytrip.com/railways/
+2024-01-23 15:39:56,345 - INFO: Page Title: Book Train Ticket Online From IRCTC Authorized Partner - MakeMyTrip
+2024-01-23 15:39:57,903 - INFO: Selected FROM: DELHI
+2024-01-23 15:39:59,668 - INFO: Selected TO: LUCKNOW
+2024-01-23 15:40:00,174 - ERROR: Error occurred: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//p[@data-cy='20-02-2024']"}
+  (Session info: chrome=120.0.6099.225); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF73BD72142+3514994]
+	(No symbol) [0x00007FF73B990CE2]
+	(No symbol) [0x00007FF73B8376AA]
+	(No symbol) [0x00007FF73B881860]
+	(No symbol) [0x00007FF73B88197C]
+	(No symbol) [0x00007FF73B8C4EE7]
+	(No symbol) [0x00007FF73B8A602F]
+	(No symbol) [0x00007FF73B8C28F6]
+	(No symbol) [0x00007FF73B8A5D93]
+	(No symbol) [0x00007FF73B874BDC]
+	(No symbol) [0x00007FF73B875C64]
+	GetHandleVerifier [0x00007FF73BD9E16B+3695259]
+	GetHandleVerifier [0x00007FF73BDF6737+4057191]
+	GetHandleVerifier [0x00007FF73BDEE4E3+4023827]
+	GetHandleVerifier [0x00007FF73BAC04F9+689705]
+	(No symbol) [0x00007FF73B99C048]
+	(No symbol) [0x00007FF73B998044]
+	(No symbol) [0x00007FF73B9981C9]
+	(No symbol) [0x00007FF73B9888C4]
+	BaseThreadInitThunk [0x00007FF84FE3257D+29]
+	RtlUserThreadStart [0x00007FF85150AA58+40]
+
+2024-01-23 15:40:49,714 - INFO: Landed on the correct page
+2024-01-23 15:40:50,231 - INFO: Page URL: https://www.makemytrip.com/railways/
+2024-01-23 15:40:50,237 - INFO: Page Title: Book Train Ticket Online From IRCTC Authorized Partner - MakeMyTrip
+2024-01-23 15:40:51,527 - INFO: Selected FROM: DELHI
+2024-01-23 15:40:53,190 - INFO: Selected TO: LUCKNOW
+2024-01-23 15:40:53,565 - ERROR: Error occurred: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//p[@data-cy='May 20 2024']"}
+  (Session info: chrome=120.0.6099.225); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF73BD72142+3514994]
+	(No symbol) [0x00007FF73B990CE2]
+	(No symbol) [0x00007FF73B8376AA]
+	(No symbol) [0x00007FF73B881860]
+	(No symbol) [0x00007FF73B88197C]
+	(No symbol) [0x00007FF73B8C4EE7]
+	(No symbol) [0x00007FF73B8A602F]
+	(No symbol) [0x00007FF73B8C28F6]
+	(No symbol) [0x00007FF73B8A5D93]
+	(No symbol) [0x00007FF73B874BDC]
+	(No symbol) [0x00007FF73B875C64]
+	GetHandleVerifier [0x00007FF73BD9E16B+3695259]
+	GetHandleVerifier [0x00007FF73BDF6737+4057191]
+	GetHandleVerifier [0x00007FF73BDEE4E3+4023827]
+	GetHandleVerifier [0x00007FF73BAC04F9+689705]
+	(No symbol) [0x00007FF73B99C048]
+	(No symbol) [0x00007FF73B998044]
+	(No symbol) [0x00007FF73B9981C9]
+	(No symbol) [0x00007FF73B9888C4]
+	BaseThreadInitThunk [0x00007FF84FE3257D+29]
+	RtlUserThreadStart [0x00007FF85150AA58+40]
+
+2024-01-23 15:43:28,798 - INFO: Landed on the correct page
+2024-01-23 15:43:29,421 - INFO: Page URL: https://www.makemytrip.com/railways/
+2024-01-23 15:43:29,428 - INFO: Page Title: Book Train Ticket Online From IRCTC Authorized Partner - MakeMyTrip
+2024-01-23 15:43:30,824 - INFO: Selected FROM: DELHI
+2024-01-23 15:43:32,534 - INFO: Selected TO: LUCKNOW
+2024-01-23 15:43:33,025 - ERROR: Error occurred: 'WebDriver' object has no attribute 'find_element_by_xpath'
+2024-01-23 15:44:07,024 - INFO: Landed on the correct page
+2024-01-23 15:44:07,652 - INFO: Page URL: https://www.makemytrip.com/railways/
+2024-01-23 15:44:07,769 - INFO: Page Title: Book Train Ticket Online From IRCTC Authorized Partner - MakeMyTrip
+2024-01-23 15:44:09,365 - INFO: Selected FROM: DELHI
+2024-01-23 15:44:11,105 - INFO: Selected TO: LUCKNOW
+2024-01-23 15:44:11,619 - ERROR: Error occurred: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='travelDate']/p[@data-cy='May 20 2024']"}
+  (Session info: chrome=120.0.6099.225); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF73BD72142+3514994]
+	(No symbol) [0x00007FF73B990CE2]
+	(No symbol) [0x00007FF73B8376AA]
+	(No symbol) [0x00007FF73B881860]
+	(No symbol) [0x00007FF73B88197C]
+	(No symbol) [0x00007FF73B8C4EE7]
+	(No symbol) [0x00007FF73B8A602F]
+	(No symbol) [0x00007FF73B8C28F6]
+	(No symbol) [0x00007FF73B8A5D93]
+	(No symbol) [0x00007FF73B874BDC]
+	(No symbol) [0x00007FF73B875C64]
+	GetHandleVerifier [0x00007FF73BD9E16B+3695259]
+	GetHandleVerifier [0x00007FF73BDF6737+4057191]
+	GetHandleVerifier [0x00007FF73BDEE4E3+4023827]
+	GetHandleVerifier [0x00007FF73BAC04F9+689705]
+	(No symbol) [0x00007FF73B99C048]
+	(No symbol) [0x00007FF73B998044]
+	(No symbol) [0x00007FF73B9981C9]
+	(No symbol) [0x00007FF73B9888C4]
+	BaseThreadInitThunk [0x00007FF84FE3257D+29]
+	RtlUserThreadStart [0x00007FF85150AA58+40]
+
+2024-01-23 15:57:20,082 - INFO: Landed on the correct page
+2024-01-23 15:57:20,820 - INFO: Page URL: https://www.makemytrip.com/railways/
+2024-01-23 15:57:20,832 - INFO: Page Title: Book Train Ticket Online From IRCTC Authorized Partner - MakeMyTrip
+2024-01-23 15:57:22,201 - INFO: Selected FROM: DELHI
+2024-01-23 15:57:23,888 - INFO: Selected TO: LUCKNOW
+2024-01-23 15:57:25,985 - ERROR: Error occurred: Message: element click intercepted: Element <span class="font32 latoBlack">...</span> is not clickable at point (859, 283). Other element would receive the click: <div class="dayPickerHeader dayToFromCont blackText">...</div>
+  (Session info: chrome=120.0.6099.225)
+Stacktrace:
+	GetHandleVerifier [0x00007FF73BD72142+3514994]
+	(No symbol) [0x00007FF73B990CE2]
+	(No symbol) [0x00007FF73B8376AA]
+	(No symbol) [0x00007FF73B8888F3]
+	(No symbol) [0x00007FF73B8868ED]
+	(No symbol) [0x00007FF73B8840EC]
+	(No symbol) [0x00007FF73B882EA5]
+	(No symbol) [0x00007FF73B876A0F]
+	(No symbol) [0x00007FF73B8A5FEA]
+	(No symbol) [0x00007FF73B8763B6]
+	(No symbol) [0x00007FF73B8A6490]
+	(No symbol) [0x00007FF73B8C28F6]
+	(No symbol) [0x00007FF73B8A5D93]
+	(No symbol) [0x00007FF73B874BDC]
+	(No symbol) [0x00007FF73B875C64]
+	GetHandleVerifier [0x00007FF73BD9E16B+3695259]
+	GetHandleVerifier [0x00007FF73BDF6737+4057191]
+	GetHandleVerifier [0x00007FF73BDEE4E3+4023827]
+	GetHandleVerifier [0x00007FF73BAC04F9+689705]
+	(No symbol) [0x00007FF73B99C048]
+	(No symbol) [0x00007FF73B998044]
+	(No symbol) [0x00007FF73B9981C9]
+	(No symbol) [0x00007FF73B9888C4]
+	BaseThreadInitThunk [0x00007FF84FE3257D+29]
+	RtlUserThreadStart [0x00007FF85150AA58+40]
+
+2024-01-23 16:00:24,967 - INFO: Landed on the correct page
+2024-01-23 16:00:25,611 - INFO: Page URL: https://www.makemytrip.com/railways/
+2024-01-23 16:00:25,619 - INFO: Page Title: Book Train Ticket Online From IRCTC Authorized Partner - MakeMyTrip
+2024-01-23 16:00:27,224 - INFO: Selected FROM: DELHI
+2024-01-23 16:00:29,010 - INFO: Selected TO: LUCKNOW
+2024-01-23 16:00:29,596 - ERROR: Error occurred: 'WebDriver' object has no attribute 'find_element_by_css_selector'
+2024-01-23 16:01:10,878 - INFO: Landed on the correct page
+2024-01-23 16:01:11,565 - INFO: Page URL: https://www.makemytrip.com/railways/
+2024-01-23 16:01:11,576 - INFO: Page Title: Book Train Ticket Online From IRCTC Authorized Partner - MakeMyTrip
+2024-01-23 16:01:12,992 - INFO: Selected FROM: DELHI
+2024-01-23 16:01:14,881 - INFO: Selected TO: LUCKNOW
+2024-01-23 16:01:15,976 - INFO: selected date: 20 may
+2024-01-23 16:01:17,436 - ERROR: Error occurred: Message: element click intercepted: Element <input data-cy="RailSearchWidget_056" id="travelClass" type="text" class="rsw_inputField font20" readonly="" value="ALL"> is not clickable at point (1012, 285). Other element would receive the click: <label for="travelClass" class="latoRegular makeFlex column">...</label>
+  (Session info: chrome=120.0.6099.225)
+Stacktrace:
+	GetHandleVerifier [0x00007FF73BD72142+3514994]
+	(No symbol) [0x00007FF73B990CE2]
+	(No symbol) [0x00007FF73B8376AA]
+	(No symbol) [0x00007FF73B8888F3]
+	(No symbol) [0x00007FF73B8868ED]
+	(No symbol) [0x00007FF73B8840EC]
+	(No symbol) [0x00007FF73B882EA5]
+	(No symbol) [0x00007FF73B876A0F]
+	(No symbol) [0x00007FF73B8A5FEA]
+	(No symbol) [0x00007FF73B8763B6]
+	(No symbol) [0x00007FF73B8A6490]
+	(No symbol) [0x00007FF73B8C28F6]
+	(No symbol) [0x00007FF73B8A5D93]
+	(No symbol) [0x00007FF73B874BDC]
+	(No symbol) [0x00007FF73B875C64]
+	GetHandleVerifier [0x00007FF73BD9E16B+3695259]
+	GetHandleVerifier [0x00007FF73BDF6737+4057191]
+	GetHandleVerifier [0x00007FF73BDEE4E3+4023827]
+	GetHandleVerifier [0x00007FF73BAC04F9+689705]
+	(No symbol) [0x00007FF73B99C048]
+	(No symbol) [0x00007FF73B998044]
+	(No symbol) [0x00007FF73B9981C9]
+	(No symbol) [0x00007FF73B9888C4]
+	BaseThreadInitThunk [0x00007FF84FE3257D+29]
+	RtlUserThreadStart [0x00007FF85150AA58+40]
+
+2024-01-23 16:04:19,646 - INFO: Landed on the correct page
+2024-01-23 16:04:20,412 - INFO: Page URL: https://www.makemytrip.com/railways/
+2024-01-23 16:04:20,422 - INFO: Page Title: Book Train Ticket Online From IRCTC Authorized Partner - MakeMyTrip
+2024-01-23 16:04:21,846 - INFO: Selected FROM: DELHI
+2024-01-23 16:04:23,583 - INFO: Selected TO: LUCKNOW
+2024-01-23 16:04:24,963 - INFO: selected date: 20 may
+2024-01-23 16:04:26,586 - ERROR: Error occurred: Message: element click intercepted: Element <input data-cy="RailSearchWidget_056" id="travelClass" type="text" class="rsw_inputField font20" readonly="" value="ALL"> is not clickable at point (1123, 285). Other element would receive the click: <p class="appendBottom3">...</p>
+  (Session info: chrome=120.0.6099.225)
+Stacktrace:
+	GetHandleVerifier [0x00007FF73BD72142+3514994]
+	(No symbol) [0x00007FF73B990CE2]
+	(No symbol) [0x00007FF73B8376AA]
+	(No symbol) [0x00007FF73B8888F3]
+	(No symbol) [0x00007FF73B8868ED]
+	(No symbol) [0x00007FF73B8840EC]
+	(No symbol) [0x00007FF73B882EA5]
+	(No symbol) [0x00007FF73B876A0F]
+	(No symbol) [0x00007FF73B8A5FEA]
+	(No symbol) [0x00007FF73B8763B6]
+	(No symbol) [0x00007FF73B8A6490]
+	(No symbol) [0x00007FF73B8C28F6]
+	(No symbol) [0x00007FF73B8A5D93]
+	(No symbol) [0x00007FF73B874BDC]
+	(No symbol) [0x00007FF73B875C64]
+	GetHandleVerifier [0x00007FF73BD9E16B+3695259]
+	GetHandleVerifier [0x00007FF73BDF6737+4057191]
+	GetHandleVerifier [0x00007FF73BDEE4E3+4023827]
+	GetHandleVerifier [0x00007FF73BAC04F9+689705]
+	(No symbol) [0x00007FF73B99C048]
+	(No symbol) [0x00007FF73B998044]
+	(No symbol) [0x00007FF73B9981C9]
+	(No symbol) [0x00007FF73B9888C4]
+	BaseThreadInitThunk [0x00007FF84FE3257D+29]
+	RtlUserThreadStart [0x00007FF85150AA58+40]
+
+2024-01-23 16:08:02,189 - INFO: Landed on the correct page
+2024-01-23 16:08:02,991 - INFO: Page URL: https://www.makemytrip.com/railways/
+2024-01-23 16:08:03,000 - INFO: Page Title: Book Train Ticket Online From IRCTC Authorized Partner - MakeMyTrip
+2024-01-23 16:08:04,563 - INFO: Selected FROM: DELHI
+2024-01-23 16:08:06,303 - INFO: Selected TO: LUCKNOW
+2024-01-23 16:08:07,033 - ERROR: Error occurred: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='font32.latoBlack'][text()='20']"}
+  (Session info: chrome=120.0.6099.225); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF73BD72142+3514994]
+	(No symbol) [0x00007FF73B990CE2]
+	(No symbol) [0x00007FF73B8376AA]
+	(No symbol) [0x00007FF73B881860]
+	(No symbol) [0x00007FF73B88197C]
+	(No symbol) [0x00007FF73B8C4EE7]
+	(No symbol) [0x00007FF73B8A602F]
+	(No symbol) [0x00007FF73B8C28F6]
+	(No symbol) [0x00007FF73B8A5D93]
+	(No symbol) [0x00007FF73B874BDC]
+	(No symbol) [0x00007FF73B875C64]
+	GetHandleVerifier [0x00007FF73BD9E16B+3695259]
+	GetHandleVerifier [0x00007FF73BDF6737+4057191]
+	GetHandleVerifier [0x00007FF73BDEE4E3+4023827]
+	GetHandleVerifier [0x00007FF73BAC04F9+689705]
+	(No symbol) [0x00007FF73B99C048]
+	(No symbol) [0x00007FF73B998044]
+	(No symbol) [0x00007FF73B9981C9]
+	(No symbol) [0x00007FF73B9888C4]
+	BaseThreadInitThunk [0x00007FF84FE3257D+29]
+	RtlUserThreadStart [0x00007FF85150AA58+40]
+
+2024-01-23 16:08:51,628 - INFO: Landed on the correct page
+2024-01-23 16:08:52,404 - INFO: Page URL: https://www.makemytrip.com/railways/
+2024-01-23 16:08:52,415 - INFO: Page Title: Book Train Ticket Online From IRCTC Authorized Partner - MakeMyTrip
+2024-01-23 16:08:54,072 - INFO: Selected FROM: DELHI
+2024-01-23 16:08:56,095 - INFO: Selected TO: LUCKNOW
+2024-01-23 16:08:56,607 - ERROR: Error occurred: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='span.font32.latoBlack'][text()='20']"}
+  (Session info: chrome=120.0.6099.225); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF73BD72142+3514994]
+	(No symbol) [0x00007FF73B990CE2]
+	(No symbol) [0x00007FF73B8376AA]
+	(No symbol) [0x00007FF73B881860]
+	(No symbol) [0x00007FF73B88197C]
+	(No symbol) [0x00007FF73B8C4EE7]
+	(No symbol) [0x00007FF73B8A602F]
+	(No symbol) [0x00007FF73B8C28F6]
+	(No symbol) [0x00007FF73B8A5D93]
+	(No symbol) [0x00007FF73B874BDC]
+	(No symbol) [0x00007FF73B875C64]
+	GetHandleVerifier [0x00007FF73BD9E16B+3695259]
+	GetHandleVerifier [0x00007FF73BDF6737+4057191]
+	GetHandleVerifier [0x00007FF73BDEE4E3+4023827]
+	GetHandleVerifier [0x00007FF73BAC04F9+689705]
+	(No symbol) [0x00007FF73B99C048]
+	(No symbol) [0x00007FF73B998044]
+	(No symbol) [0x00007FF73B9981C9]
+	(No symbol) [0x00007FF73B9888C4]
+	BaseThreadInitThunk [0x00007FF84FE3257D+29]
+	RtlUserThreadStart [0x00007FF85150AA58+40]
+
+2024-01-23 16:10:29,199 - INFO: Landed on the correct page
+2024-01-23 16:10:29,713 - INFO: Page URL: https://www.makemytrip.com/railways/
+2024-01-23 16:10:29,719 - INFO: Page Title: Book Train Ticket Online From IRCTC Authorized Partner - MakeMyTrip
+2024-01-23 16:10:31,058 - INFO: Selected FROM: DELHI
+2024-01-23 16:10:32,848 - INFO: Selected TO: LUCKNOW
+2024-01-23 16:10:33,663 - INFO: selected date: 20 may
+2024-01-23 16:10:35,188 - ERROR: Error occurred: Message: element click intercepted: Element <input data-cy="RailSearchWidget_056" id="travelClass" type="text" class="rsw_inputField font20" readonly="" value="ALL"> is not clickable at point (966, 285). Other element would receive the click: <p class="appendBottom3">...</p>
+  (Session info: chrome=120.0.6099.225)
+Stacktrace:
+	GetHandleVerifier [0x00007FF73BD72142+3514994]
+	(No symbol) [0x00007FF73B990CE2]
+	(No symbol) [0x00007FF73B8376AA]
+	(No symbol) [0x00007FF73B8888F3]
+	(No symbol) [0x00007FF73B8868ED]
+	(No symbol) [0x00007FF73B8840EC]
+	(No symbol) [0x00007FF73B882EA5]
+	(No symbol) [0x00007FF73B876A0F]
+	(No symbol) [0x00007FF73B8A5FEA]
+	(No symbol) [0x00007FF73B8763B6]
+	(No symbol) [0x00007FF73B8A6490]
+	(No symbol) [0x00007FF73B8C28F6]
+	(No symbol) [0x00007FF73B8A5D93]
+	(No symbol) [0x00007FF73B874BDC]
+	(No symbol) [0x00007FF73B875C64]
+	GetHandleVerifier [0x00007FF73BD9E16B+3695259]
+	GetHandleVerifier [0x00007FF73BDF6737+4057191]
+	GetHandleVerifier [0x00007FF73BDEE4E3+4023827]
+	GetHandleVerifier [0x00007FF73BAC04F9+689705]
+	(No symbol) [0x00007FF73B99C048]
+	(No symbol) [0x00007FF73B998044]
+	(No symbol) [0x00007FF73B9981C9]
+	(No symbol) [0x00007FF73B9888C4]
+	BaseThreadInitThunk [0x00007FF84FE3257D+29]
+	RtlUserThreadStart [0x00007FF85150AA58+40]
+
+2024-01-23 21:37:55,335 - INFO: Landed on the correct page
+2024-01-23 21:37:56,009 - INFO: Page URL: https://www.makemytrip.com/railways/
+2024-01-23 21:37:56,017 - INFO: Page Title: MakeMyTrip
+2024-01-23 21:37:56,049 - ERROR: Error occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="fromCity"]"}
+  (Session info: chrome=120.0.6099.225); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B9D92142+3514994]
+	(No symbol) [0x00007FF7B99B0CE2]
+	(No symbol) [0x00007FF7B98576AA]
+	(No symbol) [0x00007FF7B98A1860]
+	(No symbol) [0x00007FF7B98A197C]
+	(No symbol) [0x00007FF7B98E4EE7]
+	(No symbol) [0x00007FF7B98C602F]
+	(No symbol) [0x00007FF7B98E28F6]
+	(No symbol) [0x00007FF7B98C5D93]
+	(No symbol) [0x00007FF7B9894BDC]
+	(No symbol) [0x00007FF7B9895C64]
+	GetHandleVerifier [0x00007FF7B9DBE16B+3695259]
+	GetHandleVerifier [0x00007FF7B9E16737+4057191]
+	GetHandleVerifier [0x00007FF7B9E0E4E3+4023827]
+	GetHandleVerifier [0x00007FF7B9AE04F9+689705]
+	(No symbol) [0x00007FF7B99BC048]
+	(No symbol) [0x00007FF7B99B8044]
+	(No symbol) [0x00007FF7B99B81C9]
+	(No symbol) [0x00007FF7B99A88C4]
+	BaseThreadInitThunk [0x00007FF84FE3257D+29]
+	RtlUserThreadStart [0x00007FF85150AA58+40]
+
+2024-01-23 21:38:37,542 - INFO: Landed on the correct page
+2024-01-23 21:38:38,225 - INFO: Page URL: https://www.makemytrip.com/railways/
+2024-01-23 21:38:38,235 - INFO: Page Title: MakeMyTrip
+2024-01-23 21:38:38,258 - ERROR: Error occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="fromCity"]"}
+  (Session info: chrome=120.0.6099.225); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B9D92142+3514994]
+	(No symbol) [0x00007FF7B99B0CE2]
+	(No symbol) [0x00007FF7B98576AA]
+	(No symbol) [0x00007FF7B98A1860]
+	(No symbol) [0x00007FF7B98A197C]
+	(No symbol) [0x00007FF7B98E4EE7]
+	(No symbol) [0x00007FF7B98C602F]
+	(No symbol) [0x00007FF7B98E28F6]
+	(No symbol) [0x00007FF7B98C5D93]
+	(No symbol) [0x00007FF7B9894BDC]
+	(No symbol) [0x00007FF7B9895C64]
+	GetHandleVerifier [0x00007FF7B9DBE16B+3695259]
+	GetHandleVerifier [0x00007FF7B9E16737+4057191]
+	GetHandleVerifier [0x00007FF7B9E0E4E3+4023827]
+	GetHandleVerifier [0x00007FF7B9AE04F9+689705]
+	(No symbol) [0x00007FF7B99BC048]
+	(No symbol) [0x00007FF7B99B8044]
+	(No symbol) [0x00007FF7B99B81C9]
+	(No symbol) [0x00007FF7B99A88C4]
+	BaseThreadInitThunk [0x00007FF84FE3257D+29]
+	RtlUserThreadStart [0x00007FF85150AA58+40]
+
+2024-01-23 21:38:52,459 - INFO: Landed on the correct page
+2024-01-23 21:38:53,100 - INFO: Page URL: https://www.makemytrip.com/railways/
+2024-01-23 21:38:53,111 - INFO: Page Title: MakeMyTrip
+2024-01-23 21:38:53,130 - ERROR: Error occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="fromCity"]"}
+  (Session info: chrome=120.0.6099.225); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B9D92142+3514994]
+	(No symbol) [0x00007FF7B99B0CE2]
+	(No symbol) [0x00007FF7B98576AA]
+	(No symbol) [0x00007FF7B98A1860]
+	(No symbol) [0x00007FF7B98A197C]
+	(No symbol) [0x00007FF7B98E4EE7]
+	(No symbol) [0x00007FF7B98C602F]
+	(No symbol) [0x00007FF7B98E28F6]
+	(No symbol) [0x00007FF7B98C5D93]
+	(No symbol) [0x00007FF7B9894BDC]
+	(No symbol) [0x00007FF7B9895C64]
+	GetHandleVerifier [0x00007FF7B9DBE16B+3695259]
+	GetHandleVerifier [0x00007FF7B9E16737+4057191]
+	GetHandleVerifier [0x00007FF7B9E0E4E3+4023827]
+	GetHandleVerifier [0x00007FF7B9AE04F9+689705]
+	(No symbol) [0x00007FF7B99BC048]
+	(No symbol) [0x00007FF7B99B8044]
+	(No symbol) [0x00007FF7B99B81C9]
+	(No symbol) [0x00007FF7B99A88C4]
+	BaseThreadInitThunk [0x00007FF84FE3257D+29]
+	RtlUserThreadStart [0x00007FF85150AA58+40]
+
+2024-01-23 21:47:13,761 - INFO: Landed on the correct page
+2024-01-23 21:47:15,374 - INFO: Page URL: https://www.makemytrip.com/railways/
+2024-01-23 21:47:15,433 - INFO: Page Title: MakeMyTrip
+2024-01-23 21:47:15,526 - ERROR: Error occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="fromCity"]"}
+  (Session info: chrome=120.0.6099.225); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6859A2142+3514994]
+	(No symbol) [0x00007FF6855C0CE2]
+	(No symbol) [0x00007FF6854676AA]
+	(No symbol) [0x00007FF6854B1860]
+	(No symbol) [0x00007FF6854B197C]
+	(No symbol) [0x00007FF6854F4EE7]
+	(No symbol) [0x00007FF6854D602F]
+	(No symbol) [0x00007FF6854F28F6]
+	(No symbol) [0x00007FF6854D5D93]
+	(No symbol) [0x00007FF6854A4BDC]
+	(No symbol) [0x00007FF6854A5C64]
+	GetHandleVerifier [0x00007FF6859CE16B+3695259]
+	GetHandleVerifier [0x00007FF685A26737+4057191]
+	GetHandleVerifier [0x00007FF685A1E4E3+4023827]
+	GetHandleVerifier [0x00007FF6856F04F9+689705]
+	(No symbol) [0x00007FF6855CC048]
+	(No symbol) [0x00007FF6855C8044]
+	(No symbol) [0x00007FF6855C81C9]
+	(No symbol) [0x00007FF6855B88C4]
+	BaseThreadInitThunk [0x00007FF84FE3257D+29]
+	RtlUserThreadStart [0x00007FF85150AA58+40]
+
+2024-01-23 21:48:21,262 - INFO: Landed on the correct page
+2024-01-23 21:48:28,910 - INFO: Page URL: https://www.makemytrip.com/railways/
+2024-01-23 21:48:29,013 - INFO: Page Title: Book Train Ticket Online From IRCTC Authorized Partner - MakeMyTrip
+2024-01-23 21:48:33,946 - INFO: Selected FROM: DELHI
+2024-01-23 21:48:40,962 - INFO: Selected TO: LUCKNOW
+2024-01-23 21:48:43,995 - ERROR: Error occurred: 'WebDriver' object has no attribute 'findElement'
+2024-01-23 21:50:58,987 - INFO: Landed on the correct page
+2024-01-23 21:51:02,509 - INFO: Page URL: https://www.makemytrip.com/railways/
+2024-01-23 21:51:02,598 - INFO: Page Title: Book Train Ticket Online From IRCTC Authorized Partner - MakeMyTrip
+2024-01-23 21:51:09,587 - INFO: Selected FROM: DELHI
+2024-01-23 21:51:16,805 - INFO: Selected TO: LUCKNOW
+2024-01-23 21:51:19,860 - ERROR: Error occurred: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'DEPARTURE')]"}
+  (Session info: chrome=120.0.6099.225); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6859A2142+3514994]
+	(No symbol) [0x00007FF6855C0CE2]
+	(No symbol) [0x00007FF6854676AA]
+	(No symbol) [0x00007FF6854B1860]
+	(No symbol) [0x00007FF6854B197C]
+	(No symbol) [0x00007FF6854F4EE7]
+	(No symbol) [0x00007FF6854D602F]
+	(No symbol) [0x00007FF6854F28F6]
+	(No symbol) [0x00007FF6854D5D93]
+	(No symbol) [0x00007FF6854A4BDC]
+	(No symbol) [0x00007FF6854A5C64]
+	GetHandleVerifier [0x00007FF6859CE16B+3695259]
+	GetHandleVerifier [0x00007FF685A26737+4057191]
+	GetHandleVerifier [0x00007FF685A1E4E3+4023827]
+	GetHandleVerifier [0x00007FF6856F04F9+689705]
+	(No symbol) [0x00007FF6855CC048]
+	(No symbol) [0x00007FF6855C8044]
+	(No symbol) [0x00007FF6855C81C9]
+	(No symbol) [0x00007FF6855B88C4]
+	BaseThreadInitThunk [0x00007FF84FE3257D+29]
+	RtlUserThreadStart [0x00007FF85150AA58+40]
+
+2024-01-23 21:52:45,450 - INFO: Landed on the correct page
+2024-01-23 21:52:50,036 - INFO: Page URL: https://www.makemytrip.com/railways/
+2024-01-23 21:52:50,204 - INFO: Page Title: Book Train Ticket Online From IRCTC Authorized Partner - MakeMyTrip
+2024-01-23 21:52:54,618 - INFO: Selected FROM: DELHI
+2024-01-23 21:53:00,106 - INFO: Selected TO: LUCKNOW
+2024-01-23 21:53:02,836 - ERROR: Error occurred: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'20 May 2024')]"}
+  (Session info: chrome=120.0.6099.225); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6859A2142+3514994]
+	(No symbol) [0x00007FF6855C0CE2]
+	(No symbol) [0x00007FF6854676AA]
+	(No symbol) [0x00007FF6854B1860]
+	(No symbol) [0x00007FF6854B197C]
+	(No symbol) [0x00007FF6854F4EE7]
+	(No symbol) [0x00007FF6854D602F]
+	(No symbol) [0x00007FF6854F28F6]
+	(No symbol) [0x00007FF6854D5D93]
+	(No symbol) [0x00007FF6854A4BDC]
+	(No symbol) [0x00007FF6854A5C64]
+	GetHandleVerifier [0x00007FF6859CE16B+3695259]
+	GetHandleVerifier [0x00007FF685A26737+4057191]
+	GetHandleVerifier [0x00007FF685A1E4E3+4023827]
+	GetHandleVerifier [0x00007FF6856F04F9+689705]
+	(No symbol) [0x00007FF6855CC048]
+	(No symbol) [0x00007FF6855C8044]
+	(No symbol) [0x00007FF6855C81C9]
+	(No symbol) [0x00007FF6855B88C4]
+	BaseThreadInitThunk [0x00007FF84FE3257D+29]
+	RtlUserThreadStart [0x00007FF85150AA58+40]
+
+2024-01-23 21:54:29,343 - INFO: Landed on the correct page
+2024-01-23 21:54:33,750 - INFO: Page URL: https://www.makemytrip.com/railways/
+2024-01-23 21:54:33,902 - INFO: Page Title: Book Train Ticket Online From IRCTC Authorized Partner - MakeMyTrip
+2024-01-23 21:54:39,769 - INFO: Selected FROM: DELHI
+2024-01-23 21:54:44,408 - INFO: Selected TO: LUCKNOW
+2024-01-23 21:54:46,903 - ERROR: Error occurred: 'list' object has no attribute 'size'
+2024-01-23 21:55:54,950 - INFO: Landed on the correct page
+2024-01-23 21:56:00,458 - INFO: Page URL: https://www.makemytrip.com/railways/
+2024-01-23 21:56:00,583 - INFO: Page Title: Book Train Ticket Online From IRCTC Authorized Partner - MakeMyTrip
+2024-01-23 21:56:10,265 - ERROR: Error occurred: Message: disconnected: unable to send message to renderer
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=120.0.6099.225)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6859A2142+3514994]
+	(No symbol) [0x00007FF6855C0CE2]
+	(No symbol) [0x00007FF6854676AA]
+	(No symbol) [0x00007FF68544EB20]
+	(No symbol) [0x00007FF68544F7CE]
+	(No symbol) [0x00007FF68546CA9B]
+	(No symbol) [0x00007FF68546F38F]
+	(No symbol) [0x00007FF68546F480]
+	(No symbol) [0x00007FF6854B260C]
+	(No symbol) [0x00007FF6854B2722]
+	(No symbol) [0x00007FF6854A947B]
+	(No symbol) [0x00007FF6854D5FEA]
+	(No symbol) [0x00007FF6854A63B6]
+	(No symbol) [0x00007FF6854D6490]
+	(No symbol) [0x00007FF6854F28F6]
+	(No symbol) [0x00007FF6854D5D93]
+	(No symbol) [0x00007FF6854A4BDC]
+	(No symbol) [0x00007FF6854A5C64]
+	GetHandleVerifier [0x00007FF6859CE16B+3695259]
+	GetHandleVerifier [0x00007FF685A26737+4057191]
+	GetHandleVerifier [0x00007FF685A1E4E3+4023827]
+	GetHandleVerifier [0x00007FF6856F04F9+689705]
+	(No symbol) [0x00007FF6855CC048]
+	(No symbol) [0x00007FF6855C8044]
+	(No symbol) [0x00007FF6855C81C9]
+	(No symbol) [0x00007FF6855B88C4]
+	BaseThreadInitThunk [0x00007FF84FE3257D+29]
+	RtlUserThreadStart [0x00007FF85150AA58+40]
+
+2024-01-23 21:58:07,653 - INFO: Landed on the correct page
+2024-01-23 21:58:08,156 - INFO: Page URL: https://www.makemytrip.com/railways/
+2024-01-23 21:58:08,164 - INFO: Page Title: Book Train Ticket Online From IRCTC Authorized Partner - MakeMyTrip
+2024-01-23 21:58:09,625 - INFO: Selected FROM: DELHI
+2024-01-23 21:58:12,154 - INFO: Selected TO: LUCKNOW
+2024-01-23 21:58:12,884 - ERROR: Error occurred: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'travelDateR\u0325')]"}
+  (Session info: chrome=120.0.6099.225); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF658AF2142+3514994]
+	(No symbol) [0x00007FF658710CE2]
+	(No symbol) [0x00007FF6585B76AA]
+	(No symbol) [0x00007FF658601860]
+	(No symbol) [0x00007FF65860197C]
+	(No symbol) [0x00007FF658644EE7]
+	(No symbol) [0x00007FF65862602F]
+	(No symbol) [0x00007FF6586428F6]
+	(No symbol) [0x00007FF658625D93]
+	(No symbol) [0x00007FF6585F4BDC]
+	(No symbol) [0x00007FF6585F5C64]
+	GetHandleVerifier [0x00007FF658B1E16B+3695259]
+	GetHandleVerifier [0x00007FF658B76737+4057191]
+	GetHandleVerifier [0x00007FF658B6E4E3+4023827]
+	GetHandleVerifier [0x00007FF6588404F9+689705]
+	(No symbol) [0x00007FF65871C048]
+	(No symbol) [0x00007FF658718044]
+	(No symbol) [0x00007FF6587181C9]
+	(No symbol) [0x00007FF6587088C4]
+	BaseThreadInitThunk [0x00007FF84FE3257D+29]
+	RtlUserThreadStart [0x00007FF85150AA58+40]
+
+2024-01-23 21:58:47,458 - INFO: Landed on the correct page
+2024-01-23 21:58:47,759 - INFO: Page URL: https://www.makemytrip.com/railways/
+2024-01-23 21:58:47,763 - INFO: Page Title: Book Train Ticket Online From IRCTC Authorized Partner - MakeMyTrip
+2024-01-23 21:58:49,031 - INFO: Selected FROM: DELHI
+2024-01-23 21:58:50,619 - INFO: Selected TO: LUCKNOW
+2024-01-23 21:58:50,930 - ERROR: Error occurred: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'travelDate')]"}
+  (Session info: chrome=120.0.6099.225); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF658AF2142+3514994]
+	(No symbol) [0x00007FF658710CE2]
+	(No symbol) [0x00007FF6585B76AA]
+	(No symbol) [0x00007FF658601860]
+	(No symbol) [0x00007FF65860197C]
+	(No symbol) [0x00007FF658644EE7]
+	(No symbol) [0x00007FF65862602F]
+	(No symbol) [0x00007FF6586428F6]
+	(No symbol) [0x00007FF658625D93]
+	(No symbol) [0x00007FF6585F4BDC]
+	(No symbol) [0x00007FF6585F5C64]
+	GetHandleVerifier [0x00007FF658B1E16B+3695259]
+	GetHandleVerifier [0x00007FF658B76737+4057191]
+	GetHandleVerifier [0x00007FF658B6E4E3+4023827]
+	GetHandleVerifier [0x00007FF6588404F9+689705]
+	(No symbol) [0x00007FF65871C048]
+	(No symbol) [0x00007FF658718044]
+	(No symbol) [0x00007FF6587181C9]
+	(No symbol) [0x00007FF6587088C4]
+	BaseThreadInitThunk [0x00007FF84FE3257D+29]
+	RtlUserThreadStart [0x00007FF85150AA58+40]
+
+2024-01-23 22:09:24,999 - INFO: Landed on the correct page
+2024-01-23 22:09:25,854 - INFO: Page URL: https://www.makemytrip.com/railways/
+2024-01-23 22:09:25,868 - INFO: Page Title: Book Train Ticket Online From IRCTC Authorized Partner - MakeMyTrip
+2024-01-23 22:09:27,143 - ERROR: Error occurred: Message: element click intercepted: Element is not clickable at point (175, -245)
+  (Session info: chrome=120.0.6099.225)
+Stacktrace:
+	GetHandleVerifier [0x00007FF73B152142+3514994]
+	(No symbol) [0x00007FF73AD70CE2]
+	(No symbol) [0x00007FF73AC176AA]
+	(No symbol) [0x00007FF73AC688F3]
+	(No symbol) [0x00007FF73AC668ED]
+	(No symbol) [0x00007FF73AC640EC]
+	(No symbol) [0x00007FF73AC62EA5]
+	(No symbol) [0x00007FF73AC56A0F]
+	(No symbol) [0x00007FF73AC85FEA]
+	(No symbol) [0x00007FF73AC563B6]
+	(No symbol) [0x00007FF73AC86490]
+	(No symbol) [0x00007FF73ACA28F6]
+	(No symbol) [0x00007FF73AC85D93]
+	(No symbol) [0x00007FF73AC54BDC]
+	(No symbol) [0x00007FF73AC55C64]
+	GetHandleVerifier [0x00007FF73B17E16B+3695259]
+	GetHandleVerifier [0x00007FF73B1D6737+4057191]
+	GetHandleVerifier [0x00007FF73B1CE4E3+4023827]
+	GetHandleVerifier [0x00007FF73AEA04F9+689705]
+	(No symbol) [0x00007FF73AD7C048]
+	(No symbol) [0x00007FF73AD78044]
+	(No symbol) [0x00007FF73AD781C9]
+	(No symbol) [0x00007FF73AD688C4]
+	BaseThreadInitThunk [0x00007FF84FE3257D+29]
+	RtlUserThreadStart [0x00007FF85150AA58+40]
+
+2024-01-24 00:18:41,297 - INFO: Landed on the correct page
+2024-01-24 00:18:42,042 - INFO: Page URL: https://www.makemytrip.com/railways/
+2024-01-24 00:18:42,042 - INFO: Page Title: Book Train Ticket Online From IRCTC Authorized Partner - MakeMyTrip
+2024-01-24 00:18:43,740 - INFO: Selected FROM: DELHI
+2024-01-24 00:18:45,588 - INFO: Selected TO: LUCKNOW
+2024-01-24 00:18:56,396 - ERROR: Error occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7991F2142+3514994]
+	(No symbol) [0x00007FF798E10CE2]
+	(No symbol) [0x00007FF798CB76AA]
+	(No symbol) [0x00007FF798D01860]
+	(No symbol) [0x00007FF798D0197C]
+	(No symbol) [0x00007FF798D44EE7]
+	(No symbol) [0x00007FF798D2602F]
+	(No symbol) [0x00007FF798D428F6]
+	(No symbol) [0x00007FF798D25D93]
+	(No symbol) [0x00007FF798CF4BDC]
+	(No symbol) [0x00007FF798CF5C64]
+	GetHandleVerifier [0x00007FF79921E16B+3695259]
+	GetHandleVerifier [0x00007FF799276737+4057191]
+	GetHandleVerifier [0x00007FF79926E4E3+4023827]
+	GetHandleVerifier [0x00007FF798F404F9+689705]
+	(No symbol) [0x00007FF798E1C048]
+	(No symbol) [0x00007FF798E18044]
+	(No symbol) [0x00007FF798E181C9]
+	(No symbol) [0x00007FF798E088C4]
+	BaseThreadInitThunk [0x00007FF84FE3257D+29]
+	RtlUserThreadStart [0x00007FF85150AA58+40]
+
+2024-01-24 00:19:45,460 - INFO: Landed on the correct page
+2024-01-24 00:19:46,246 - INFO: Page URL: https://www.makemytrip.com/railways/
+2024-01-24 00:19:46,250 - INFO: Page Title: Book Train Ticket Online From IRCTC Authorized Partner - MakeMyTrip
+2024-01-24 00:19:47,775 - INFO: Selected FROM: DELHI
+2024-01-24 00:19:49,436 - INFO: Selected TO: LUCKNOW
+2024-01-24 00:20:00,207 - ERROR: Error occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7991F2142+3514994]
+	(No symbol) [0x00007FF798E10CE2]
+	(No symbol) [0x00007FF798CB76AA]
+	(No symbol) [0x00007FF798D01860]
+	(No symbol) [0x00007FF798D0197C]
+	(No symbol) [0x00007FF798D44EE7]
+	(No symbol) [0x00007FF798D2602F]
+	(No symbol) [0x00007FF798D428F6]
+	(No symbol) [0x00007FF798D25D93]
+	(No symbol) [0x00007FF798CF4BDC]
+	(No symbol) [0x00007FF798CF5C64]
+	GetHandleVerifier [0x00007FF79921E16B+3695259]
+	GetHandleVerifier [0x00007FF799276737+4057191]
+	GetHandleVerifier [0x00007FF79926E4E3+4023827]
+	GetHandleVerifier [0x00007FF798F404F9+689705]
+	(No symbol) [0x00007FF798E1C048]
+	(No symbol) [0x00007FF798E18044]
+	(No symbol) [0x00007FF798E181C9]
+	(No symbol) [0x00007FF798E088C4]
+	BaseThreadInitThunk [0x00007FF84FE3257D+29]
+	RtlUserThreadStart [0x00007FF85150AA58+40]
+
+2024-01-24 00:20:14,841 - INFO: Landed on the correct page
+2024-01-24 00:20:15,502 - INFO: Page URL: https://www.makemytrip.com/railways/
+2024-01-24 00:20:15,518 - INFO: Page Title: Book Train Ticket Online From IRCTC Authorized Partner - MakeMyTrip
+2024-01-24 00:20:17,011 - INFO: Selected FROM: DELHI
+2024-01-24 00:20:18,786 - INFO: Selected TO: LUCKNOW
+2024-01-24 00:20:30,259 - ERROR: Error occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7991F2142+3514994]
+	(No symbol) [0x00007FF798E10CE2]
+	(No symbol) [0x00007FF798CB76AA]
+	(No symbol) [0x00007FF798D01860]
+	(No symbol) [0x00007FF798D0197C]
+	(No symbol) [0x00007FF798D44EE7]
+	(No symbol) [0x00007FF798D2602F]
+	(No symbol) [0x00007FF798D428F6]
+	(No symbol) [0x00007FF798D25D93]
+	(No symbol) [0x00007FF798CF4BDC]
+	(No symbol) [0x00007FF798CF5C64]
+	GetHandleVerifier [0x00007FF79921E16B+3695259]
+	GetHandleVerifier [0x00007FF799276737+4057191]
+	GetHandleVerifier [0x00007FF79926E4E3+4023827]
+	GetHandleVerifier [0x00007FF798F404F9+689705]
+	(No symbol) [0x00007FF798E1C048]
+	(No symbol) [0x00007FF798E18044]
+	(No symbol) [0x00007FF798E181C9]
+	(No symbol) [0x00007FF798E088C4]
+	BaseThreadInitThunk [0x00007FF84FE3257D+29]
+	RtlUserThreadStart [0x00007FF85150AA58+40]
+
+2024-01-24 00:21:45,996 - INFO: Landed on the correct page
+2024-01-24 00:21:46,617 - INFO: Page URL: https://www.makemytrip.com/railways/
+2024-01-24 00:21:46,628 - INFO: Page Title: Book Train Ticket Online From IRCTC Authorized Partner - MakeMyTrip
+2024-01-24 00:21:48,049 - INFO: Selected FROM: DELHI
+2024-01-24 00:21:49,771 - INFO: Selected TO: LUCKNOW
+2024-01-24 00:22:00,576 - ERROR: Error occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7991F2142+3514994]
+	(No symbol) [0x00007FF798E10CE2]
+	(No symbol) [0x00007FF798CB76AA]
+	(No symbol) [0x00007FF798D01860]
+	(No symbol) [0x00007FF798D0197C]
+	(No symbol) [0x00007FF798D44EE7]
+	(No symbol) [0x00007FF798D2602F]
+	(No symbol) [0x00007FF798D428F6]
+	(No symbol) [0x00007FF798D25D93]
+	(No symbol) [0x00007FF798CF4BDC]
+	(No symbol) [0x00007FF798CF5C64]
+	GetHandleVerifier [0x00007FF79921E16B+3695259]
+	GetHandleVerifier [0x00007FF799276737+4057191]
+	GetHandleVerifier [0x00007FF79926E4E3+4023827]
+	GetHandleVerifier [0x00007FF798F404F9+689705]
+	(No symbol) [0x00007FF798E1C048]
+	(No symbol) [0x00007FF798E18044]
+	(No symbol) [0x00007FF798E181C9]
+	(No symbol) [0x00007FF798E088C4]
+	BaseThreadInitThunk [0x00007FF84FE3257D+29]
+	RtlUserThreadStart [0x00007FF85150AA58+40]
+
+2024-01-24 00:23:22,870 - INFO: Landed on the correct page
+2024-01-24 00:23:23,808 - INFO: Page URL: https://www.makemytrip.com/railways/
+2024-01-24 00:23:23,825 - INFO: Page Title: Book Train Ticket Online From IRCTC Authorized Partner - MakeMyTrip
+2024-01-24 00:23:25,724 - INFO: Selected FROM: DELHI
+2024-01-24 00:23:28,273 - INFO: Selected TO: LUCKNOW
+2024-01-24 00:23:43,170 - ERROR: Error occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7991F2142+3514994]
+	(No symbol) [0x00007FF798E10CE2]
+	(No symbol) [0x00007FF798CB76AA]
+	(No symbol) [0x00007FF798D01860]
+	(No symbol) [0x00007FF798D0197C]
+	(No symbol) [0x00007FF798D44EE7]
+	(No symbol) [0x00007FF798D2602F]
+	(No symbol) [0x00007FF798D428F6]
+	(No symbol) [0x00007FF798D25D93]
+	(No symbol) [0x00007FF798CF4BDC]
+	(No symbol) [0x00007FF798CF5C64]
+	GetHandleVerifier [0x00007FF79921E16B+3695259]
+	GetHandleVerifier [0x00007FF799276737+4057191]
+	GetHandleVerifier [0x00007FF79926E4E3+4023827]
+	GetHandleVerifier [0x00007FF798F404F9+689705]
+	(No symbol) [0x00007FF798E1C048]
+	(No symbol) [0x00007FF798E18044]
+	(No symbol) [0x00007FF798E181C9]
+	(No symbol) [0x00007FF798E088C4]
+	BaseThreadInitThunk [0x00007FF84FE3257D+29]
+	RtlUserThreadStart [0x00007FF85150AA58+40]
+
